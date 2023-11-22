@@ -43,11 +43,11 @@ A mini project developed for Semester 3 using HTML, JavaScript, CSS, MongoDB, an
       npm install
       ```
       
-      If you haven't created a package.json file yet, you can create one by running:
-   
-       ```bash
-          npm init -y
-       ```
+   If you haven't created a package.json file yet, you can create one by running:
+         
+    ```bash
+           npm init -y
+     ```
     
 
    Installation of MongoDB, Node.js, Express.js and Mongoose:
