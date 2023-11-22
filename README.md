@@ -52,7 +52,7 @@ A mini project developed for Semester 3 using HTML, JavaScript, CSS, MongoDB, an
 
    Installation of MongoDB, Node.js, Express.js and Mongoose:
     ```bash
-       Install MongoDB driver for Node.js
+       # Install MongoDB driver for Node.js
             npm install mongodb
          
        # Install Express.js
