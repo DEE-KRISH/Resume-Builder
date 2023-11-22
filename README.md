@@ -49,17 +49,17 @@ A mini project developed for Semester 3 using HTML, JavaScript, CSS, MongoDB, an
           npm init -y
        ```
     
-  Installation of MongoDB, Node.js, Express.js and Mongoose:
+        Installation of MongoDB, Node.js, Express.js and Mongoose:
     ```bash
-       # Install MongoDB driver for Node.js
+       Install MongoDB driver for Node.js
             npm install mongodb
          
        # Install Express.js
            npm install express
               
         # Install Mongoose (an ODM for MongoDB and Node.js)
-            npm install mongoose
-    ```
+            npm install mongoose ```
+  
 
 3. Configure MongoDB:
   
