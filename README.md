@@ -49,7 +49,8 @@ A mini project developed for Semester 3 using HTML, JavaScript, CSS, MongoDB, an
           npm init -y
        ```
     
-        Installation of MongoDB, Node.js, Express.js and Mongoose:
+
+   Installation of MongoDB, Node.js, Express.js and Mongoose:
     ```bash
        Install MongoDB driver for Node.js
             npm install mongodb
@@ -66,7 +67,8 @@ A mini project developed for Semester 3 using HTML, JavaScript, CSS, MongoDB, an
     Ensure MongoDB is installed and running.
 
     Update the MongoDB connection string in config.js.
-    ## Recommended:
+
+   Recommended:
      Use MongoDB Compass as a graphical user interface to interact with your MongoDB database. 
 
 5. Start the application:
