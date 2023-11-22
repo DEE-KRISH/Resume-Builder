@@ -33,45 +33,43 @@ A mini project developed for Semester 3 using HTML, JavaScript, CSS, MongoDB, an
 ## Getting Started
 
 1. Clone the repository:
-2. 
-   ```bash
-    git clone https://github.com/your-username/resume-builder.git](https://github.com/DEE-KRISH/Resume-Builder.git
-   ```
+      ```bash
+      git clone https://github.com/your-username/resume-builder.git](https://github.com/DEE-KRISH/Resume-Builder.git
+      ```
 
 3. Install dependencies:
-   
-   ```bash
-     cd RESUME-BUILDER
-     npm install
-   ```
+      ```bash
+      cd RESUME-BUILDER
+      npm install
+      ```
 
-  If you haven't created a package.json file yet, you can create one by running:
-  
-    ```bash
+      If you haven't created a package.json file yet, you can create one by running:
+       ```bash
           npm init -y
-    ```
+       ```
     
-  Installation of MongoDB, Node.js, Express.js and Mongoose
+  Installation of MongoDB, Node.js, Express.js and Mongoose:
   
     ```bash
-      # Install MongoDB driver for Node.js
-        npm install mongodb
+    # Install MongoDB driver for Node.js
+     npm install mongodb
+   
+    # Install Express.js
+     npm install express
         
-        # Install Express.js
-        npm install express
-        
-        # Install Mongoose (an ODM for MongoDB and Node.js)
-        npm install mongoose
+    # Install Mongoose (an ODM for MongoDB and Node.js)
+      npm install mongoose
     ```
 
 3. Configure MongoDB:
   
     Ensure MongoDB is installed and running.
+
     Update the MongoDB connection string in config.js.
-    # Recommended:
+    ## Recommended:
      Use MongoDB Compass as a graphical user interface to interact with your MongoDB database. 
 
-4. Start the application:
+5. Start the application:
    
     ```bash
       npm start
