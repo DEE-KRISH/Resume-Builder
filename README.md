@@ -9,7 +9,7 @@ A mini project developed for Semester 3 using HTML, JavaScript, CSS, MongoDB, an
 - **User Authentication:** Users can create accounts, log in, and securely manage their personal information.
 
 - **Resume Creation:** A dynamic and intuitive interface for users to build and customize their resumes. This includes sections for personal details, education, work experience, skills, and more.
-- - **Templates:** Choose from two resume templates to enhance the visual appeal of your resume.
+- **Templates:** Choose from two resume templates to enhance the visual appeal of your resume.
 
 - **Save and Edit:** Users can save their progress and come back later to edit their resumes. The data is securely stored in a MongoDB database.
 
